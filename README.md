@@ -7,13 +7,9 @@
 * Le programme de test utilise un triplet d’entiers et un triplet de chaînes.
 * Le compilateur garantit qu’on ne mélange pas de types différents dans un même `Triplet<T>`.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 225214.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 225227.png" />
 
 # Exercice 2 — Triplet hétérogène
 
@@ -24,10 +20,7 @@
 * Le programme de test utilise différentes combinaisons de types comme `Integer`, `String`, `Double` et `Boolean`.
 * Cette approche permet de créer une structure générique flexible tout en conservant la sécurité de type.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 225241.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-14 225249.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
